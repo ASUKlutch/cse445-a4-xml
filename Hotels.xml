@@ -6,11 +6,11 @@
     <Phone>800-937-8461</Phone>
     <Address>
       <Number>11</Number>
-      <Street>E.7th St</Street>
+      <Street>E 7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
+      <NearestAirport>Sky Habor</NearestAirport>
     </Address>
     <Rating>4.2</Rating>
   </Hotel>
@@ -31,6 +31,7 @@
   <Hotel id="H003">
     <Name>Hyatt Place Tempe</Name>
     <Phone>480-555-0102</Phone>
+    <Phone>480-555-0199</Phone>
     <Address>
       <Number>601</Number>
       <Street>S Ash Ave</Street>
@@ -112,6 +113,7 @@
   <Hotel id="H009">
     <Name>Courtyard by Marriott Tempe Downtown</Name>
     <Phone>480-555-0108</Phone>
+    <Phone>480-555-0123</Phone> 
     <Address>
       <Number>601</Number>
       <Street>S Ash Ave</Street>
